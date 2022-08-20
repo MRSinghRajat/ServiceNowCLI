@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>short_description</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>30</order>
+        <record_id_field/>
+        <screen display_value="Details">968186e7dbd1d110526c265d13961945</screen>
+        <screen_data_item_table>incident</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>rajat@pamtconsulting.com</sys_created_by>
+        <sys_created_on>2022-08-20 01:37:24</sys_created_on>
+        <sys_id>668186e7dbd1d110526c265d1396195f</sys_id>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="nowBuild" source="x_pamtn_nowbuild">ec5102e7dbd1d110526c265d139619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nowBuild">ec5102e7dbd1d110526c265d139619e5</sys_scope>
+        <sys_update_name>sys_sg_screen_field_668186e7dbd1d110526c265d1396195f</sys_update_name>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=668186e7dbd1d110526c265d1396195f"/>
+</record_update>

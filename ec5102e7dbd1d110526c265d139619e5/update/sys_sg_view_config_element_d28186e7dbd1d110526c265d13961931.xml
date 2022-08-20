@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>short_description-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>rajat@pamtconsulting.com</sys_created_by>
+        <sys_created_on>2022-08-20 01:37:24</sys_created_on>
+        <sys_id>d28186e7dbd1d110526c265d13961931</sys_id>
+        <sys_name>short_description-FieldValue</sys_name>
+        <sys_package display_value="nowBuild" source="x_pamtn_nowbuild">ec5102e7dbd1d110526c265d139619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nowBuild">ec5102e7dbd1d110526c265d139619e5</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_d28186e7dbd1d110526c265d13961931</sys_update_name>
+        <view_config display_value="Incident Detail Screen View Config">168186e7dbd1d110526c265d1396192a</view_config>
+        <view_template_slot display_value="text_03">ef5ef07841e35010f877183fc9b8be34</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

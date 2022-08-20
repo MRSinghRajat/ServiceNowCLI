@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="nowBuild">968106e7dbd1d110526c265d139619e0</applet_launcher>
+        <icon display_value="Home nowBuild">9e8106e7dbd1d110526c265d139619e0</icon>
+        <label>nowBuild</label>
+        <roles>admin</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>rajat@pamtconsulting.com</sys_created_by>
+        <sys_created_on>2022-08-20 01:37:23</sys_created_on>
+        <sys_id>5e8106e7dbd1d110526c265d139619e0</sys_id>
+        <sys_name>nowBuild</sys_name>
+        <sys_package display_value="nowBuild" source="x_pamtn_nowbuild">ec5102e7dbd1d110526c265d139619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nowBuild">ec5102e7dbd1d110526c265d139619e5</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_5e8106e7dbd1d110526c265d139619e0</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>

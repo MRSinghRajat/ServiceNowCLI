@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldLabel">c90fd1c2b7321010df65f6efce11a9d2</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>rajat@pamtconsulting.com</sys_created_by>
+        <sys_created_on>2022-08-20 01:37:24</sys_created_on>
+        <sys_id>da8186e7dbd1d110526c265d13961921</sys_id>
+        <sys_name>c90fd1c2b7321010df65f6efce11a9d2</sys_name>
+        <sys_package display_value="nowBuild" source="x_pamtn_nowbuild">ec5102e7dbd1d110526c265d139619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nowBuild">ec5102e7dbd1d110526c265d139619e5</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_da8186e7dbd1d110526c265d13961921</sys_update_name>
+        <translated_value/>
+        <value>opened_by</value>
+        <view_config_element display_value="opened_by-FieldLabel">528186e7dbd1d110526c265d13961920</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=da8186e7dbd1d110526c265d13961921"/>
+</record_update>

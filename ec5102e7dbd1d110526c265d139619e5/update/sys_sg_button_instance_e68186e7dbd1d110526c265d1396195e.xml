@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Incident)">228186e7dbd1d110526c265d13961959</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Incident)</name>
+        <order/>
+        <parent>1e8186e7dbd1d110526c265d13961944</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>rajat@pamtconsulting.com</sys_created_by>
+        <sys_created_on>2022-08-20 01:37:24</sys_created_on>
+        <sys_id>e68186e7dbd1d110526c265d1396195e</sys_id>
+        <sys_name>New (Incident)</sys_name>
+        <sys_package display_value="nowBuild" source="x_pamtn_nowbuild">ec5102e7dbd1d110526c265d139619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nowBuild">ec5102e7dbd1d110526c265d139619e5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e68186e7dbd1d110526c265d1396195e</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e68186e7dbd1d110526c265d1396195e"/>
+</record_update>
